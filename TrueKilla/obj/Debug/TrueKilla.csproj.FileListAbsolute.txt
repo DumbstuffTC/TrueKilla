@@ -1,0 +1,9 @@
+C:\Users\paulg\source\repos\TrueKilla\TrueKilla\bin\Debug\TrueKilla.exe.config
+C:\Users\paulg\source\repos\TrueKilla\TrueKilla\bin\Debug\TrueKilla.exe
+C:\Users\paulg\source\repos\TrueKilla\TrueKilla\bin\Debug\TrueKilla.pdb
+C:\Users\paulg\source\repos\TrueKilla\TrueKilla\obj\Debug\TrueKilla.csprojAssemblyReference.cache
+C:\Users\paulg\source\repos\TrueKilla\TrueKilla\obj\Debug\TrueKilla.Properties.Resources.resources
+C:\Users\paulg\source\repos\TrueKilla\TrueKilla\obj\Debug\TrueKilla.csproj.GenerateResource.cache
+C:\Users\paulg\source\repos\TrueKilla\TrueKilla\obj\Debug\TrueKilla.csproj.CoreCompileInputs.cache
+C:\Users\paulg\source\repos\TrueKilla\TrueKilla\obj\Debug\TrueKilla.exe
+C:\Users\paulg\source\repos\TrueKilla\TrueKilla\obj\Debug\TrueKilla.pdb
